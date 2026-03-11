@@ -27,16 +27,17 @@
 
  
 ### Main skills:
-![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&labelColor=0D1117&textColor=0D1117)&nbsp;
-![SQL](https://img.shields.io/badge/-MYSQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-![Power bi](https://img.shields.io/badge/-PowerBi-0D1117?style=for-the-badge&logo=socialblade&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Grafana](https://img.shields.io/badge/-Grafana-0D1117?style=for-the-badge&logo=grafana&logoColor=purple&labelColor=0D1117)&nbsp; 
- 
-  
+![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&logoColor=ED8B00)
+![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-0D1117?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4)
+![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
+
 ### Studying in this moment:
-![R](https://img.shields.io/badge/-R-0D1117?style=for-the-badge&logo=r&labelColor=0D1117&textColor=0D1117)&nbsp;
-![automacao](https://img.shields.io/badge/-Automation-0D1117?style=for-the-badge&logo=opensourcehardware&labelColor=0D1117)&nbsp;
-![machine learning](https://img.shields.io/badge/-MachineLearning-0D1117?style=for-the-badge&logo=neutralinojs&labelColor=0D1117&textColor=0D1117)&nbsp;
+![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![SpringBoot](https://img.shields.io/badge/-SpringBoot-0D1117?style=for-the-badge&logo=spring-boot&logoColor=6DB33F)
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)
 
 <!-- <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
