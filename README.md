@@ -7,7 +7,7 @@
 </div>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9c44f4&size=35&center=true&vCenter=true&width=1000&lines=What's+Up!+Sammuel+Victor+here;Data+Analyst+jr;Study+Porto+Digital;Participant+in+a+Technology+Residency+Program;Feel+at+home)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9c44f4&size=35&center=true&vCenter=true&width=1000&lines=What's+Up!+Sammuel+Victor+here;Study+Porto+Digital;Participant+in+a+Technology+Residency+Program;Feel+at+home)](https://git.io/typing-svg) 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sammuelvss&bg_color=000000&color=9c44f4&line=9c44f4&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
