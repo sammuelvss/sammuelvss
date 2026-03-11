@@ -15,11 +15,11 @@
 
 <div align="center">  
 
-  <a href="https://www.instagram.com/Sammuelvss" target="_blank">
+  <a href="https://www.instagram.com/samv1ctor" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
-  <a href="https://www.linkedin.com/in/samuel-sousa-9613982aa/" target="_blank">
+  <a href="https://www.linkedin.com/in/sammuel-victor/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
