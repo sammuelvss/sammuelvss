@@ -27,7 +27,7 @@
 
  
 ### Main skills:
-![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![SQL](https://img.shields.io/badge/-MYSQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 ![Power bi](https://img.shields.io/badge/-PowerBi-0D1117?style=for-the-badge&logo=socialblade&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Grafana](https://img.shields.io/badge/-Grafana-0D1117?style=for-the-badge&logo=grafana&logoColor=purple&labelColor=0D1117)&nbsp; 
