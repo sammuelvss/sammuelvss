@@ -13,13 +13,13 @@
 
 
 
-<div style="display: flex; justify-content: center; gap: 25px;"> 
+<div align="center">
 
   <a href="https://www.instagram.com/samv1ctor" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-
-  <a href="https://www.linkedin.com/in/sammuel-victor/" target="_blank">
+  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/sammuel-victor/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
