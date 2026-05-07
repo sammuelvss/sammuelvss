@@ -13,7 +13,7 @@
 
 
 
-<div align="center">  
+<div style="display: flex; justify-content: center; gap: 20px;">  
 
   <a href="https://www.instagram.com/samv1ctor" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
