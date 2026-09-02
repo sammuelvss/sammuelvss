@@ -1,10 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
 
 
-<div align="center">
+<!--<div align="center">
   <img height="270" src="https://i.imgur.com/JrD9QQR.gif"/>
 </br></br></br> 
-</div>
+</div>-->
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9c44f4&size=35&center=true&vCenter=true&width=1000&lines=What's+Up!+Sammuel+Victor+here;Porto+Digital+Student;Participant+in+a+Technology+Residency+Program;Feel+at+home)](https://git.io/typing-svg) 
