@@ -4,15 +4,16 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=9C44F4&center=true&vCenter=true&width=560&lines=Ol%C3%A1%2C+eu+sou+o+Sammuel;Estudante+em+Porto+Digital;Residente+em+Programa+de+Resid%C3%AAncia+Tech;Sinta-se+em+casa)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=9C44F4&center=true&vCenter=true&width=560&lines=Ol%C3%A1%2C+eu+sou+o+Sammuel;Estudante+em+Porto+Digital;Residente+no+Programa+Tech;Sinta-se+em+casa)](https://git.io/typing-svg)
 
 <br/>
 
-<a href="https://www.instagram.com/samv1ctor" target="_blank">
-  <img src="https://img.shields.io/static/v1?label=&message=Instagram&color=E4405F&style=flat-square&logo=instagram&logoColor=white" />
-</a>
+<!-- Badges sociais padronizadas com a paleta do perfil -->
 <a href="https://www.linkedin.com/in/sammuel-victor/" target="_blank">
-  <img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=0077B5&style=flat-square&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=9c44f4" alt="LinkedIn" />
+</a>
+<a href="https://www.instagram.com/samv1ctor" target="_blank">
+  <img src="https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=9c44f4" alt="Instagram" />
 </a>
 
 </div>
@@ -21,14 +22,15 @@
 
 ## Sobre mim
 
-- Desenvolvedor front-end, atuando na EJUnicap (Empresa Junior Unicap)
-- Estudante e residente em programa de residência tecnológica no Porto Digital
-- Trabalho com projetos acadêmicos em equipe, unindo back-end em Spring Boot e front-end em React/Next.js
-- Sempre estudando algo novo — atualmente aprofundando React, Spring Boot e Python
+-  **Desenvolvedor Front-end**, atuando na EJUnicap (Empresa Júnior Unicap).
+- Estudante de Sistemas para Internet e residente tecnológico no **Porto Digital**.
+- Trabalho com projetos acadêmicos em equipe, unindo back-end em **Spring Boot** e front-end em **React/Next.js**.
+- Entusiasta de robótica e eletrônica, desenvolvendo projetos práticos com **Arduino e C++**.
+- Sempre estudando algo novo — atualmente aprofundando em React, Spring Boot e Python.
 
 <br/>
 
-## Principais habilidades
+##  Tecnologias e Ferramentas
 
 <div align="center">
 
@@ -55,16 +57,17 @@
 
 <br/>
 
-## Estatísticas do GitHub
+##  Estatísticas do GitHub
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sammuelvss&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=9c44f4&icon_color=9c44f4&text_color=c9d1d9"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sammuelvss&layout=compact&hide_border=true&bg_color=0D1117&title_color=9c44f4&text_color=c9d1d9"/>
+<!-- Fundo transparente (bg_color=00000000) para um visual mais limpo e alturas ajustadas em 'em' para responsividade -->
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Sammuelvss&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&title_color=9c44f4&icon_color=9c44f4&text_color=c9d1d9"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sammuelvss&layout=compact&hide_border=true&bg_color=00000000&title_color=9c44f4&text_color=c9d1d9"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sammuelvss&hide_border=true&background=0D1117&stroke=9c44f4&ring=9c44f4&fire=9c44f4&currStreakLabel=9c44f4"/>
+<img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sammuelvss&hide_border=true&background=00000000&stroke=9c44f4&ring=9c44f4&fire=9c44f4&currStreakLabel=9c44f4&sideNums=c9d1d9&currStreakNum=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9"/>
 
 </div>
 
