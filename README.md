@@ -55,8 +55,6 @@
 
 <br/>
 
-##  Estatísticas do GitHub
-
 <div align="center">
 
 <a href="https://github.com/Sammuelvss">
