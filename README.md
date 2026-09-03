@@ -58,20 +58,29 @@
 
 <br/>
 
-## Estatísticas do GitHub
+## 📊 Estatísticas do GitHub
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sammuelvss&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=9c44f4&icon_color=9c44f4&text_color=c9d1d9"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sammuelvss&layout=compact&hide_border=true&bg_color=0D1117&title_color=9c44f4&text_color=c9d1d9"/>
+<!-- Linha 1: Linguagens (formato de barras) e Status do GitHub -->
+<a href="https://github.com/Sammuelvss">
+  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sammuelvss&theme=radical&hide_border=true&langs_count=4"/>
+</a>
+<a href="https://github.com/Sammuelvss">
+  <img height="195" src="https://github-readme-stats.vercel.app/api?username=Sammuelvss&theme=radical&show_icons=true&hide_border=true&count_private=true"/>
+</a>
 
 <br/>
 
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Sammuelvss&hide_border=true&background=0D1117&stroke=9c44f4&ring=9c44f4&fire=9c44f4&currStreakLabel=9c44f4&sideNums=c9d1d9&currStreakNum=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9"/>
+<!-- Linha 2: Repositórios Fixados -->
+<a href="https://github.com/Sammuelvss/PROJECT-FILM-SITE-AvaliaFilmes">
+  <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=Sammuelvss&repo=PROJECT-FILM-SITE-AvaliaFilmes&theme=radical&hide_border=true"/>
+</a>
+<a href="https://github.com/Sammuelvss/Meu_Portifolio">
+  <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=Sammuelvss&repo=Meu_Portifolio&theme=radical&hide_border=true"/>
+</a>
 
-</div>
-
-<br/>
+</div><br/>
 
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:9c44f4,100:000000&height=120&section=footer"/>
