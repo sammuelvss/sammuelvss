@@ -1,34 +1,34 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.co/api?type=waving&color=0:000000,100:9c44f4&height=200&section=header&text=Sammuel%20Victor&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Front-end%20Developer%20%7C%20Porto%20Digital%20Student&descAlignY=55&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:9c44f4&height=200&section=header&text=Sammuel%20Victor&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Front-end%20Developer%20%7C%20Porto%20Digital%20Student&descAlignY=55&descSize=18"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=9C44F4&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Sammuel+%F0%9F%91%8B;Estudante+em+Porto+Digital;Residente+em+Programa+de+Resid%C3%AAncia+Tech;Sinta-se+em+casa+%3A%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=9C44F4&center=true&vCenter=true&width=560&lines=Ol%C3%A1%2C+eu+sou+o+Sammuel;Estudante+em+Porto+Digital;Residente+em+Programa+de+Resid%C3%AAncia+Tech;Sinta-se+em+casa)](https://git.io/typing-svg)
 
 <br/>
 
 <a href="https://www.instagram.com/samv1ctor" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img src="https://img.shields.io/static/v1?label=&message=Instagram&color=E4405F&style=flat-square&logo=instagram&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/sammuel-victor/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=0077B5&style=flat-square&logo=linkedin&logoColor=white" />
 </a>
 
 </div>
 
 <br/>
 
-## 🚀 Sobre mim
+## Sobre mim
 
-- 💻 Desenvolvedor front-end, atuando na EJUnicap (Empresa Junior Unicap)
-- 📚 Estudante e residente em programa de residência tecnológica no Porto Digital
-- 🛠️ Trabalho com projetos acadêmicos em equipe, unindo back-end em Spring Boot e front-end em React/Next.js
-- 🌱 Sempre estudando algo novo — atualmente aprofundando React, Spring Boot e Python
+- Desenvolvedor front-end, atuando na EJUnicap (Empresa Junior Unicap)
+- Estudante e residente em programa de residência tecnológica no Porto Digital
+- Trabalho com projetos acadêmicos em equipe, unindo back-end em Spring Boot e front-end em React/Next.js
+- Sempre estudando algo novo — atualmente aprofundando React, Spring Boot e Python
 
 <br/>
 
-## 🧠 Principais habilidades
+## Principais habilidades
 
 <div align="center">
 
@@ -42,7 +42,7 @@
 
 </div>
 
-### 🌱 Estudando no momento
+### Estudando no momento
 
 <div align="center">
 
@@ -55,7 +55,7 @@
 
 <br/>
 
-## 📊 Estatísticas do GitHub
+## Estatísticas do GitHub
 
 <div align="center">
 
@@ -71,5 +71,5 @@
 <br/>
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.co/api?type=waving&color=0:9c44f4,100:000000&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:9c44f4,100:000000&height=120&section=footer"/>
 </div>
