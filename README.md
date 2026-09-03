@@ -4,24 +4,22 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=9C44F4&center=true&vCenter=true&width=560&lines=Ol%C3%A1%2C+eu+sou+o+Sammuel;Estudante+em+Porto+Digital;Residente+no+Programa+Tech;Sinta-se+em+casa)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=9C44F4&center=true&vCenter=true&width=560&lines=Ol%C3%A1%2C+eu+sou+Sammuel;Estudante+do+Embarque+Digital;Residente+pelo+Porto+Digital;Sinta-se+em+casa)](https://git.io/typing-svg)
 
 <br/>
 
-<a href="https://www.linkedin.com/in/sammuel-victor/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=9c44f4" alt="LinkedIn" />
-</a>
-<a href="https://www.instagram.com/samv1ctor" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=9c44f4" alt="Instagram" />
-</a>
+<!-- Botões em uma única linha Markdown para evitar o traço azul e furar o cache -->
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sammuel-victor/)&nbsp;&nbsp;&nbsp;&nbsp;[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/samv1ctor)
+
+</div>
 
 </div>
 
 <br/>
 
-## Sobre mim
+##  Sobre mim
 
-- **Desenvolvedor Front-end**, atuando na EJUnicap (Empresa Júnior Unicap).
+- **Desenvolvedor Front-end UX/UI**.
 - Estudante de Sistemas para Internet e residente tecnológico no **Porto Digital**.
 - Trabalho com projetos acadêmicos em equipe, unindo back-end em **Spring Boot** e front-end em **React/Next.js**.
 - Entusiasta de robótica e eletrônica, desenvolvendo projetos práticos com **Arduino e C++**.
@@ -29,7 +27,7 @@
 
 <br/>
 
-## Tecnologias e Ferramentas
+##  Tecnologias e Ferramentas
 
 <div align="center">
 
@@ -45,39 +43,24 @@
 
 <br/>
 
-## Estudando no momento
+##  Estudando no momento
 
 <div align="center">
 
 ![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-0D1117?style=for-the-badge&logo=spring-boot&logoColor=6DB33F)
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)
-![FramerMotion](https://img.shields.io/badge/-Framer%20Motion-0D1117?style=for-the-badge&logo=framer&logoColor=0055FF)
 
 </div>
 
 <br/>
 
-## 📊 Estatísticas do GitHub
+##  Estatísticas do GitHub
 
 <div align="center">
 
-<!-- Linha 1: Linguagens (formato de barras) e Status do GitHub -->
 <a href="https://github.com/Sammuelvss">
-  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sammuelvss&theme=radical&hide_border=true&langs_count=4" alt="Linguagens mais usadas" />
-</a>
-<a href="https://github.com/Sammuelvss">
-  <img height="195" src="https://github-readme-stats.vercel.app/api?username=Sammuelvss&theme=radical&show_icons=true&hide_border=true" alt="Estatísticas do GitHub" />
-</a>
-
-<br/>
-
-<!-- Linha 2: Repositórios Fixados -->
-<a href="https://github.com/Sammuelvss/PROJECT-FILM-SITE-AvaliaFilmes">
-  <img height="120" src="https://github-readme-stats.vercel.app/api/pin?username=Sammuelvss&repo=PROJECT-FILM-SITE-AvaliaFilmes&theme=radical&hide_border=true" alt="Projeto de Avaliação de Filmes" />
-</a>
-<a href="https://github.com/Sammuelvss/Meu_Portifolio">
-  <img height="120" src="https://github-readme-stats.vercel.app/api/pin?username=Sammuelvss&repo=Meu_Portifolio&theme=radical&hide_border=true" alt="Meu Portfólio" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sammuelvss&theme=radical" alt="Resumo do Perfil do GitHub" />
 </a>
 
 </div>
