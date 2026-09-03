@@ -8,7 +8,7 @@
 
 <br/>
 
-<!-- Badges sociais padronizadas com a paleta do perfil -->
+<!-- Emblemas sociais padronizados para responsividade e estilo unificado -->
 <a href="https://www.linkedin.com/in/sammuel-victor/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=9c44f4" alt="LinkedIn" />
 </a>
@@ -20,17 +20,17 @@
 
 <br/>
 
-## Sobre mim
+## 👨‍💻 Sobre mim
 
--  **Desenvolvedor Front-end**, atuando na EJUnicap (Empresa Júnior Unicap).
-- Estudante de Sistemas para Internet e residente tecnológico no **Porto Digital**.
-- Trabalho com projetos acadêmicos em equipe, unindo back-end em **Spring Boot** e front-end em **React/Next.js**.
-- Entusiasta de robótica e eletrônica, desenvolvendo projetos práticos com **Arduino e C++**.
-- Sempre estudando algo novo — atualmente aprofundando em React, Spring Boot e Python.
+- 🚀 **Desenvolvedor Front-end**, atuando na EJUnicap (Empresa Júnior Unicap).
+- 🎓 Estudante de Sistemas para Internet e residente tecnológico no **Porto Digital**.
+- 🤝 Trabalho com projetos acadêmicos em equipe, unindo back-end em **Spring Boot** e front-end em **React/Next.js**.
+- 🤖 Entusiasta de robótica e eletrônica, desenvolvendo projetos práticos com **Arduino e C++**.
+- 📚 Sempre estudando algo novo — atualmente aprofundando em React, Spring Boot e Python.
 
 <br/>
 
-##  Tecnologias e Ferramentas
+## 🛠️ Tecnologias e Ferramentas
 
 <div align="center">
 
@@ -57,17 +57,17 @@
 
 <br/>
 
-##  Estatísticas do GitHub
+## 📊 Estatísticas do GitHub
 
 <div align="center">
 
-<!-- Fundo transparente (bg_color=00000000) para um visual mais limpo e alturas ajustadas em 'em' para responsividade -->
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Sammuelvss&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&title_color=9c44f4&icon_color=9c44f4&text_color=c9d1d9"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sammuelvss&layout=compact&hide_border=true&bg_color=00000000&title_color=9c44f4&text_color=c9d1d9"/>
+<!-- Fundo transparente para visual limpo e unificado -->
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Sammuelvss&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&title_color=9c44f4&icon_color=9c44f4&text_color=c9d1d9"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sammuelvss&layout=compact&hide_border=true&bg_color=00000000&title_color=9c44f4&text_color=c9d1d9"/>
 
 <br/>
 
-<img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sammuelvss&hide_border=true&background=00000000&stroke=9c44f4&ring=9c44f4&fire=9c44f4&currStreakLabel=9c44f4&sideNums=c9d1d9&currStreakNum=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9"/>
+<img height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sammuelvss&hide_border=true&background=00000000&stroke=9c44f4&ring=9c44f4&fire=9c44f4&currStreakLabel=9c44f4&sideNums=c9d1d9&currStreakNum=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9"/>
 
 </div>
 
