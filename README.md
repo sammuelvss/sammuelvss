@@ -19,13 +19,13 @@
 
 <br/>
 
-##  Sobre mim
+## Sobre mim
 
--  **Desenvolvedor Front-end**, atuando na EJUnicap (Empresa Júnior Unicap).
--  Estudante de Sistemas para Internet e residente tecnológico no **Porto Digital**.
--  Trabalho com projetos acadêmicos em equipe, unindo back-end em **Spring Boot** e front-end em **React/Next.js**.
--  Entusiasta de robótica e eletrônica, desenvolvendo projetos práticos com **Arduino e C++**.
--  Sempre estudando algo novo — atualmente aprofundando em React, Spring Boot e Python.
+- **Desenvolvedor Front-end**, atuando na EJUnicap (Empresa Júnior Unicap).
+- Estudante de Sistemas para Internet e residente tecnológico no **Porto Digital**.
+- Trabalho com projetos acadêmicos em equipe, unindo back-end em **Spring Boot** e front-end em **React/Next.js**.
+- Entusiasta de robótica e eletrônica, desenvolvendo projetos práticos com **Arduino e C++**.
+- Sempre estudando algo novo — atualmente aprofundando em React, Spring Boot e Python.
 
 <br/>
 
@@ -64,23 +64,25 @@
 
 <!-- Linha 1: Linguagens (formato de barras) e Status do GitHub -->
 <a href="https://github.com/Sammuelvss">
-  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sammuelvss&theme=radical&hide_border=true&langs_count=4"/>
+  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sammuelvss&theme=radical&hide_border=true&langs_count=4" alt="Linguagens mais usadas" />
 </a>
 <a href="https://github.com/Sammuelvss">
-  <img height="195" src="https://github-readme-stats.vercel.app/api?username=Sammuelvss&theme=radical&show_icons=true&hide_border=true&count_private=true"/>
+  <img height="195" src="https://github-readme-stats.vercel.app/api?username=Sammuelvss&theme=radical&show_icons=true&hide_border=true" alt="Estatísticas do GitHub" />
 </a>
 
 <br/>
 
 <!-- Linha 2: Repositórios Fixados -->
 <a href="https://github.com/Sammuelvss/PROJECT-FILM-SITE-AvaliaFilmes">
-  <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=Sammuelvss&repo=PROJECT-FILM-SITE-AvaliaFilmes&theme=radical&hide_border=true"/>
+  <img height="120" src="https://github-readme-stats.vercel.app/api/pin?username=Sammuelvss&repo=PROJECT-FILM-SITE-AvaliaFilmes&theme=radical&hide_border=true" alt="Projeto de Avaliação de Filmes" />
 </a>
 <a href="https://github.com/Sammuelvss/Meu_Portifolio">
-  <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=Sammuelvss&repo=Meu_Portifolio&theme=radical&hide_border=true"/>
+  <img height="120" src="https://github-readme-stats.vercel.app/api/pin?username=Sammuelvss&repo=Meu_Portifolio&theme=radical&hide_border=true" alt="Meu Portfólio" />
 </a>
 
-</div><br/>
+</div>
+
+<br/>
 
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:9c44f4,100:000000&height=120&section=footer"/>
