@@ -56,11 +56,11 @@
 <br/>
 
 <div align="center">
-
+<br/>
 <a href="https://github.com/Sammuelvss">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sammuelvss&theme=radical" alt="Resumo do Perfil do GitHub" />
 </a>
-
+<br/>
 </div>
 
 <br/>
