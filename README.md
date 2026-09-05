@@ -50,6 +50,7 @@
 ![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-0D1117?style=for-the-badge&logo=spring-boot&logoColor=6DB33F)
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)
+![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=339933)
 
 </div>
 
