@@ -17,13 +17,13 @@
 
 <br/>
 
-##  Sobre mim
+<!--##  Sobre mim
 
 - **Desenvolvedor Front-end UX/UI**.
 - Estudante de Sistemas para Internet e residente em tecnologia no **Porto Digital**.
 - Trabalho com projetos acadêmicos em equipe, unindo back-end em **Spring Boot** e front-end em **React/Next.js**.
 - Entusiasta de robótica e eletrônica, desenvolvendo projetos práticos com **Arduino e C++**.
-- Sempre estudando algo novo — atualmente aprofundando em React, Spring Boot e Python.
+- Sempre estudando algo novo — atualmente aprofundando em React, Spring Boot e Python.-->
 
 <br/>
 
