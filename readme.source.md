@@ -61,9 +61,9 @@
 
 ```aura width=830 height=44
 <div style={{ display: 'flex', alignItems: 'center', width: '100%', height: '100%' }}>
-  <div style={{ display: 'flex', width: 12, height: 12, marginRight: 12, background: '#f28a30' }} />
-  <div style={{ display: 'flex', color: '#0eb18e', fontSize: 13, letterSpacing: 3, fontWeight: 700, marginRight: 16 }}>ESTUDANDO AGORA</div>
-  <div style={{ display: 'flex', flex: 1, height: 1, background: 'rgba(242,138,48,0.35)' }} />
+  <div style={{ display: 'flex', width: 12, height: 12, marginRight: 12, background: '#0eb18e' }} />
+  <div style={{ display: 'flex', color: '#0eb18e', fontSize: 13, letterSpacing: 3, fontWeight: 700, marginRight: 16 }}>ESTUDANDO NO MOMENTO</div>
+  <div style={{ display: 'flex', flex: 1, height: 1, background: 'rgba(14,177,142,0.35)' }} />
 </div>
 ```
 
