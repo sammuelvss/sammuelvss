@@ -1,19 +1,36 @@
-
 ```aura width=830 height=170
 <div style={{ display: 'flex', flexDirection: 'column', justifyContent: 'center', width: '100%', height: '100%', padding: '0 44px', borderRadius: 20, border: '1px solid #1f2b28', background: '#0c1110' }}>
   <div style={{ display: 'flex', width: 36, height: 3, borderRadius: 2, background: '#0eb18e', marginBottom: 20 }} />
   <div style={{ display: 'flex', color: '#ffffff', fontSize: 46, fontWeight: 700, letterSpacing: -1.5 }}>Sammuel Victor</div>
-  <div style={{ display: 'flex', marginTop: 8, color: '#e6edeb', fontSize: 20 }}>Software Engineer  ·  Estudante de Sistemas para Internet</div>
-  <div style={{ display: 'flex', marginTop: 14, color: '#8ea39d', fontSize: 15 }}>Recife, PE</div>
+  <div style={{ display: 'flex', marginTop: 8, color: '#e6edeb', fontSize: 20 }}>Front-end Developer  ·  Estudante de Sistemas para Internet</div>
+  <div style={{ display: 'flex', marginTop: 14, color: '#8ea39d', fontSize: 15 }}>Porto Digital  ·  Recife, PE</div>
 </div>
 ```
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sammuel-victor/"><img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="linkedin" /></a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/samv1ctor"><img src="https://skillicons.dev/icons?i=instagram" width="48" height="48" alt="instagram" /></a>&nbsp;&nbsp;
-  <a href="https://sammuelvictor.vercel.app/"><img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="vercel" /></a>&nbsp;&nbsp;
-  <a href="mailto:samvss13@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="gmail" /></a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="110">
+      <a href="https://www.linkedin.com/in/sammuel-victor/"><img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn" /></a>
+      <br/>
+      <a href="https://www.linkedin.com/in/sammuel-victor/"><sub><b>LinkedIn</b></sub></a>
+    </td>
+    <td align="center" width="110">
+      <a href="https://www.instagram.com/samv1ctor"><img src="https://skillicons.dev/icons?i=instagram" width="48" height="48" alt="Instagram" /></a>
+      <br/>
+      <a href="https://www.instagram.com/samv1ctor"><sub><b>Instagram</b></sub></a>
+    </td>
+    <td align="center" width="110">
+      <a href="https://sammuelvictor.vercel.app/"><img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Portfólio" /></a>
+      <br/>
+      <a href="https://sammuelvictor.vercel.app/"><sub><b>Portfólio</b></sub></a>
+    </td>
+    <td align="center" width="110">
+      <a href="mailto:samvss13@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="E-mail" /></a>
+      <br/>
+      <a href="mailto:samvss13@gmail.com"><sub><b>E-mail</b></sub></a>
+    </td>
+  </tr>
+</table>
 
 ```aura width=830 height=230
 <div style={{ display: 'flex', flexDirection: 'column', justifyContent: 'center', width: '100%', height: '100%', padding: '0 44px', borderRadius: 20, border: '1px solid #1f2b28', background: '#0c1110' }}>
