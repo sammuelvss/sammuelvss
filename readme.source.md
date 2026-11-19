@@ -2,8 +2,8 @@
 <div style={{ display: 'flex', flexDirection: 'column', justifyContent: 'center', width: '100%', height: '100%', padding: '0 44px', borderRadius: 20, border: '1px solid #1f2b28', background: '#0c1110' }}>
   <div style={{ display: 'flex', width: 36, height: 3, borderRadius: 2, background: '#0eb18e', marginBottom: 20 }} />
   <div style={{ display: 'flex', color: '#ffffff', fontSize: 46, fontWeight: 700, letterSpacing: -1.5 }}>Sammuel Victor</div>
-  <div style={{ display: 'flex', marginTop: 8, color: '#e6edeb', fontSize: 20 }}>Front-end Developer  ·  Estudante de Sistemas para Internet</div>
-  <div style={{ display: 'flex', marginTop: 14, color: '#8ea39d', fontSize: 15 }}>Porto Digital  ·  Recife, PE</div>
+  <div style={{ display: 'flex', marginTop: 8, color: '#e6edeb', fontSize: 20 }}>Software Engineer  ·  Estudante de Sistemas para Internet</div>
+  <div style={{ display: 'flex', marginTop: 14, color: '#8ea39d', fontSize: 15 }}> Recife, PE</div>
 </div>
 ```
 
@@ -35,7 +35,7 @@
 ```aura width=830 height=230
 <div style={{ display: 'flex', flexDirection: 'column', justifyContent: 'center', width: '100%', height: '100%', padding: '0 44px', borderRadius: 20, border: '1px solid #1f2b28', background: '#0c1110' }}>
   <div style={{ display: 'flex', color: '#0eb18e', fontSize: 13, letterSpacing: 3, fontWeight: 700 }}>SOBRE MIM</div>
-  <div style={{ display: 'flex', marginTop: 14, color: '#e6edeb', fontSize: 19, lineHeight: 1.5 }}>Estudo Sistemas para Internet na UNICAP e faço parte do ecossistema do Porto Digital pelo Embarque digital. Gosto de transformar ideias em suloções reais, simples, bonitas, e funcionais.</div>
+  <div style={{ display: 'flex', marginTop: 14, color: '#e6edeb', fontSize: 19, lineHeight: 1.5 }}>Estudo Sistemas para Internet na UNICAP e faço parte do ecossistema do Porto Digital pelo Embarque digital. Gosto de transformar ideias em suluções reais, simples, bonitas, e funcionais.</div>
   <div style={{ display: 'flex', marginTop: 16, color: '#8ea39d', fontSize: 16 }}></div>
 </div>
 ```
