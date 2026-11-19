@@ -12,7 +12,7 @@
 </div>
 ```
 
-<table align="center">
+<div align="center">
   <tr>
     <td align="center" width="110">
       <a href="https://www.linkedin.com/in/sammuel-victor/"><img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn" /></a>
@@ -35,7 +35,7 @@
       <a href="mailto:samvss13@gmail.com"><sub><b>E-mail</b></sub></a>
     </td>
   </tr>
-</table>
+</div>
 
 ```aura width=830 height=190
 <div style={{ display: 'flex', flexDirection: 'column', justifyContent: 'center', width: '100%', height: '100%', padding: '0 44px', borderRadius: 20, border: '1px solid #1f2b28', background: 'linear-gradient(135deg, #0f1f1b 0%, #0c1110 55%, #1a120c 100%)' }}>
